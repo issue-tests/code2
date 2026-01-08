@@ -1,3 +1,0 @@
-[submodule "Private Submodule"]
-	path = .github
-	url = git@github.com:issue-tests/code3.git
